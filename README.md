@@ -1,2 +1,2 @@
-# http://biancasntos.github.io/index.html
+# http://biancasntos.github.io
 Página_Html_CSS
